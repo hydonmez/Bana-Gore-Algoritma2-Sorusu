@@ -1,2 +1,2 @@
 # sinavsorusu
- 
+java sinav sorusu Soru: sizden  geometri ve soru adi altinda iki tane sinif olusturulmaniz isteniyor.Geometri sinifi  kalitim yapacağınız sinifiniz soru sinifi ise ana sinifiniz olacaktir.girilen kenar sayisi en az 2 ve en fazla 3 olacaktir.  Polymorphism  kullanarak ilgi sinifin adina bagli olarak kenar uzunluklarina gore ucgen ve dikdortgenin cevresini,dikdortgenin alanini hesaplayan.Temel siniftada dikdortgenin koseyen uzunlugunu bulan methodu kodlayiniz.Onemli:cevre degiskeni ve alan methodu private tanimlanacaktir
